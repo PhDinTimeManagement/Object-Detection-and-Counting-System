@@ -1,0 +1,29 @@
+# 100/100 iterations complete ✅ (11584.85s)
+# Results saved to runs/detect/tune2
+# Best fitness=0.7388 observed at iteration 42
+# Best fitness metrics are {'metrics/precision(B)': 0.98276, 'metrics/recall(B)': 0.96291, 'metrics/mAP50(B)': 0.98435, 'metrics/mAP50-95(B)': 0.71152, 'val/box_loss': 1.14363, 'val/cls_loss': 0.37844, 'val/dfl_loss': 0.78052, 'fitness': 0.7388}
+# Best fitness model is runs/detect/train42
+# Best fitness hyperparameters are printed below.
+
+lr0: 0.00622
+lrf: 0.00618
+momentum: 0.80774
+weight_decay: 0.00056
+warmup_epochs: 1.8395
+warmup_momentum: 0.52433
+box: 8.45512
+cls: 0.37275
+dfl: 1.18532
+hsv_h: 0.01438
+hsv_s: 0.75444
+hsv_v: 0.37201
+degrees: 0.0
+translate: 0.09335
+scale: 0.29729
+shear: 0.0
+perspective: 0.0
+flipud: 0.0
+fliplr: 0.38751
+mosaic: 0.92436
+mixup: 0.0
+copy_paste: 0.0
