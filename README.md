@@ -11,11 +11,13 @@ Joshua Ho Yin LAM <br>
 
 ## Project Demo
 ### Segmentation
+Note: The demo GIF is high-resolution and may take a few moments to load.
 <p align="center">
   <img src="media/Segmentation_VSQ.gif" width="480" alt="demo animation">
 </p>
 
 ### Object Detection
+Note: The demo GIF is high-resolution and may take a few moments to load.
 <p align="center">
   <img src="media/YOLOv8_VSQ.gif" width="480" alt="demo animation">
 </p>
